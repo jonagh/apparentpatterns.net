@@ -15,4 +15,4 @@ titleCaseStyle = 'none'
     BookSection = 'docs'
     # Book theme images - relative to /static directory.
     BookFavicon = 'favicon.png'
-    BookLogo = 'logo.png'
+    BookLogo = ''
