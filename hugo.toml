@@ -1,0 +1,6 @@
+baseURL = 'https://apparentpatterns.net/'
+locale = 'en-ca'
+title = 'apparent patterns'
+theme = 'book'
+
+titleCaseStyle = 'none'
