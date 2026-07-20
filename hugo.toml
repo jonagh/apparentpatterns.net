@@ -5,11 +5,14 @@ theme = 'book'
 
 titleCaseStyle = 'none'
 
+[caches.images]
+  dir = ':cacheDir/images'
+
 [params]
-BookTheme = 'dark'
-BookComments = false
-# Book theme top-level sections (aka pages or docs) - relative to /content directory.
-BookSection = 'docs'
-# Book theme images - relative to /static directory.
-BookFavicon = 'favicon.png'
-BookLogo = 'logo.png'
+    BookTheme = 'dark'
+    BookComments = false
+    # Book theme top-level sections (aka pages or docs) - relative to /content directory.
+    BookSection = 'docs'
+    # Book theme images - relative to /static directory.
+    BookFavicon = 'favicon.png'
+    BookLogo = 'logo.png'
